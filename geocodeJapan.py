@@ -18,7 +18,7 @@ File 03: mapRestaurants.py
 # %% IMPORT MODULES
 import pandas as pd
 import googlemaps
-gmaps = googlemaps.Client(key='AIzaSyDSCdZFqvTT4mHc2l3Lw8i6jt3nEg2UMl4')
+gmaps = googlemaps.Client(key='ENTER_KEY')
 # Api key:
 # https://console.cloud.google.com/apis/dashboard?project=avian-pact-280019
 
